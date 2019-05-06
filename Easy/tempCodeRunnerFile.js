@@ -1,1 +1,1 @@
-    // squaredOutput.push(Math.pow(A[i],2));
+console.log((25).toString(2));
