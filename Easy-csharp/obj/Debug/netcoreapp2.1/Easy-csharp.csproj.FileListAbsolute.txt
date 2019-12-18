@@ -1,0 +1,11 @@
+C:\Users\achow\Documents\REPOS\GITHUB\LeetCode\Easy-csharp\bin\Debug\netcoreapp2.1\Easy-csharp.deps.json
+C:\Users\achow\Documents\REPOS\GITHUB\LeetCode\Easy-csharp\bin\Debug\netcoreapp2.1\Easy-csharp.runtimeconfig.json
+C:\Users\achow\Documents\REPOS\GITHUB\LeetCode\Easy-csharp\bin\Debug\netcoreapp2.1\Easy-csharp.runtimeconfig.dev.json
+C:\Users\achow\Documents\REPOS\GITHUB\LeetCode\Easy-csharp\bin\Debug\netcoreapp2.1\Easy-csharp.dll
+C:\Users\achow\Documents\REPOS\GITHUB\LeetCode\Easy-csharp\bin\Debug\netcoreapp2.1\Easy-csharp.pdb
+C:\Users\achow\Documents\REPOS\GITHUB\LeetCode\Easy-csharp\obj\Debug\netcoreapp2.1\Easy-csharp.csprojAssemblyReference.cache
+C:\Users\achow\Documents\REPOS\GITHUB\LeetCode\Easy-csharp\obj\Debug\netcoreapp2.1\Easy-csharp.csproj.CoreCompileInputs.cache
+C:\Users\achow\Documents\REPOS\GITHUB\LeetCode\Easy-csharp\obj\Debug\netcoreapp2.1\Easy-csharp.AssemblyInfoInputs.cache
+C:\Users\achow\Documents\REPOS\GITHUB\LeetCode\Easy-csharp\obj\Debug\netcoreapp2.1\Easy-csharp.AssemblyInfo.cs
+C:\Users\achow\Documents\REPOS\GITHUB\LeetCode\Easy-csharp\obj\Debug\netcoreapp2.1\Easy-csharp.dll
+C:\Users\achow\Documents\REPOS\GITHUB\LeetCode\Easy-csharp\obj\Debug\netcoreapp2.1\Easy-csharp.pdb
