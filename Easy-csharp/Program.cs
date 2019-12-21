@@ -6,8 +6,10 @@ namespace Easy_csharp
     {
         static void Main(string[] args)
         {
-            Test.Solution();
-            Console.WriteLine("Hello World!");
+
+            Console.WriteLine(BalancedStringSplit.Solution("RLLLLRRRLR"));
+   
+            Console.Read();
         }
     }
 }
