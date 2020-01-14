@@ -1,20 +1,49 @@
-Given the root node of a binary search tree, return the sum of values of all nodes with value between L and R (inclusive).
+1309. Decrypt String from Alphabet to Integer Mapping
+Easy
 
-The binary search tree is guaranteed to have unique values.
+70
+
+7
+
+Add to List
+
+Share
+Given a string s formed by digits ('0' - '9') and '#' . We want to map s to English lowercase characters as follows:
+
+Characters ('a' to 'i') are represented by ('1' to '9') respectively.
+Characters ('j' to 'z') are represented by ('10#' to '26#') respectively. 
+Return the string formed after mapping.
+
+It's guaranteed that a unique mapping will always exist.
 
  
 
 Example 1:
 
-Input: root = [10,5,15,3,7,null,18], L = 7, R = 15
-Output: 32
+Input: s = "10#11#12"
+Output: "jkab"
+Explanation: "j" -> "10#" , "k" -> "11#" , "a" -> "1" , "b" -> "2".
 Example 2:
 
-Input: root = [10,5,15,3,7,13,18,1,null,6], L = 6, R = 10
-Output: 23
+Input: s = "1326#"
+Output: "acz"
+Example 3:
+
+Input: s = "25#"
+Output: "y"
+Example 4:
+
+Input: s = "12345678910#11#12#13#14#15#16#17#18#19#20#21#22#23#24#25#26#"
+Output: "abcdefghijklmnopqrstuvwxyz"
  
 
-Note:
+Constraints:
 
-The number of nodes in the tree is at most 10000.
-The final answer is guaranteed to be less than 2^31.
+1 <= s.length <= 1000
+s[i] only contains digits letters ('0'-'9') and '#' letter.
+s will be valid string such that mapping is always possible.
+
+
+string FreqAlphabets(string s) {
+        
+    }
