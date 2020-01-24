@@ -1,59 +1,32 @@
-1213. Intersection of Three Sorted Arrays
+1086. High Five
 Easy
 
-67
+121
 
-4
+26
 
 Add to List
 
 Share
-Given three integer arrays arr1, arr2 and arr3 sorted in strictly increasing order, return a sorted array of only the integers that appeared in all three arrays.
+Given a list of scores of different students, return the average score of each student's top five scores in the order of each student's id.
+
+Each entry items[i] has items[i][0] the student's id, and items[i][1] the student's score.  The average score is calculated using integer division.
 
  
 
 Example 1:
 
-Input: arr1 = [1,2,3,4,5], arr2 = [1,2,5,7,9], arr3 = [1,3,4,5,8]
-Output: [1,5]
-Explanation: Only 1 and 5 appeared in the three arrays.
+Input: [[1,91],[1,92],[2,93],[2,97],[1,60],[2,77],[1,65],[1,87],[1,100],[2,100],[2,76]]
+Output: [[1,87],[2,88]]
+Explanation: 
+The average of the student with id = 1 is 87.
+The average of the student with id = 2 is 88.6. But with integer division their average converts to 88.
  
 
-Constraints:
+Note:
 
-1 <= arr1.length, arr2.length, arr3.length <= 1000
-1 <= arr1[i], arr2[i], arr3[i] <= 2000
-Accepted
-10.3K
-Submissions
-13.3K
-Seen this question in a real interview before?
-
-Yes
-
-No
-Contributor
-LeetCode
-
-
-
-1213/1321
-
-
-
-
-
-
-
-1
-class Solution {
-2
-public:
-3
-    vector<int> arraysIntersection(vector<int>& arr1, vector<int>& arr2, vector<int>& arr3) {
-4
-        
-5
-    }
-6
-};
+1 <= items.length <= 1000
+items[i].length == 2
+The IDs of the students is between 1 to 1000
+The score of the students is between 1 to 100
+For each student, there are at least 5 scores

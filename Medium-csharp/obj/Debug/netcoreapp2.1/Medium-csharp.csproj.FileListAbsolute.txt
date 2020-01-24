@@ -1,0 +1,11 @@
+C:\Users\achow\Documents\REPOS\GITHUB\LeetCode\Medium-csharp\bin\Debug\netcoreapp2.1\Medium-csharp.deps.json
+C:\Users\achow\Documents\REPOS\GITHUB\LeetCode\Medium-csharp\bin\Debug\netcoreapp2.1\Medium-csharp.runtimeconfig.json
+C:\Users\achow\Documents\REPOS\GITHUB\LeetCode\Medium-csharp\bin\Debug\netcoreapp2.1\Medium-csharp.runtimeconfig.dev.json
+C:\Users\achow\Documents\REPOS\GITHUB\LeetCode\Medium-csharp\bin\Debug\netcoreapp2.1\Medium-csharp.dll
+C:\Users\achow\Documents\REPOS\GITHUB\LeetCode\Medium-csharp\bin\Debug\netcoreapp2.1\Medium-csharp.pdb
+C:\Users\achow\Documents\REPOS\GITHUB\LeetCode\Medium-csharp\obj\Debug\netcoreapp2.1\Medium-csharp.csprojAssemblyReference.cache
+C:\Users\achow\Documents\REPOS\GITHUB\LeetCode\Medium-csharp\obj\Debug\netcoreapp2.1\Medium-csharp.csproj.CoreCompileInputs.cache
+C:\Users\achow\Documents\REPOS\GITHUB\LeetCode\Medium-csharp\obj\Debug\netcoreapp2.1\Medium-csharp.AssemblyInfoInputs.cache
+C:\Users\achow\Documents\REPOS\GITHUB\LeetCode\Medium-csharp\obj\Debug\netcoreapp2.1\Medium-csharp.AssemblyInfo.cs
+C:\Users\achow\Documents\REPOS\GITHUB\LeetCode\Medium-csharp\obj\Debug\netcoreapp2.1\Medium-csharp.dll
+C:\Users\achow\Documents\REPOS\GITHUB\LeetCode\Medium-csharp\obj\Debug\netcoreapp2.1\Medium-csharp.pdb

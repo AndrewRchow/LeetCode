@@ -1,10 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-using System.Collections;
 
 
-namespace Easy_csharp
+namespace Medium_csharp
 {
     public static class AAAAAA
     {

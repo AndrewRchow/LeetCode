@@ -1,13 +1,13 @@
 ﻿using System;
-namespace Easy_csharp
+
+namespace Medium_csharp
 {
     class Program
     {
         static void Main(string[] args)
         {
-           CountLetters1.Test();
 
-            Console.Read();
+            Rotate1.Test();
         }
     }
 }
