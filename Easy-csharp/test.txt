@@ -1,32 +1,53 @@
-1086. High Five
+53. Maximum Subarray
 Easy
 
-121
+6092
 
-26
+255
 
 Add to List
 
 Share
-Given a list of scores of different students, return the average score of each student's top five scores in the order of each student's id.
+Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
 
-Each entry items[i] has items[i][0] the student's id, and items[i][1] the student's score.  The average score is calculated using integer division.
+Example:
 
- 
+Input: [-2,1,-3,4,-1,2,1,-5,4],
+Output: 6
+Explanation: [4,-1,2,1] has the largest sum = 6.
+Follow up:
 
-Example 1:
+If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle.
 
-Input: [[1,91],[1,92],[2,93],[2,97],[1,60],[2,77],[1,65],[1,87],[1,100],[2,100],[2,76]]
-Output: [[1,87],[2,88]]
-Explanation: 
-The average of the student with id = 1 is 87.
-The average of the student with id = 2 is 88.6. But with integer division their average converts to 88.
- 
+Accepted
+750.1K
+Submissions
+1.6M
+Seen this question in a real interview before?
 
-Note:
+Yes
 
-1 <= items.length <= 1000
-items[i].length == 2
-The IDs of the students is between 1 to 1000
-The score of the students is between 1 to 100
-For each student, there are at least 5 scores
+No
+Contributor
+LeetCode
+
+
+
+13/379
+
+
+
+
+
+
+
+1
+public class Solution {
+2
+    public int MaxSubArray(int[] nums) {
+3
+        
+4
+    }
+5
+}

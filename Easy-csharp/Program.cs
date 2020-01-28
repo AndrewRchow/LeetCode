@@ -5,7 +5,8 @@ namespace Easy_csharp
     {
         static void Main(string[] args)
         {
-           CountLetters1.Test();
+      IsValid1.Test();
+
 
             Console.Read();
         }
