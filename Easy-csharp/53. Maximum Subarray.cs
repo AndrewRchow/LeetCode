@@ -15,10 +15,14 @@ namespace Easy_csharp
             public ListNode(int x) { val = x; }
         }
 
-       
+
         public static int MaxSubArray(int[] nums)
         {
+            return 1;
+            // for (int i = 0; i < nums.Length; i++)
+            // {
 
+            // }
         }
     }
 }
